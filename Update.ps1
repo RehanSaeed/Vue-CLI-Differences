@@ -6,4 +6,6 @@ vue create --preset 'Rehans Preset' ummati
 Rename-Item -Path Ummati  -NewName Source;
 git add .
 git commit -m "$version"
+git push
 git branch $version
+git push
