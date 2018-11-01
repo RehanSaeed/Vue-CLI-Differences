@@ -1,4 +1,4 @@
-$version = "3.0.5";
+$version = "3.1.0";
 
 npm install -g @vue/cli@$version
 Remove-Item .\Source -Force -Recurse;
